@@ -232,7 +232,7 @@ Superstore Sales/
 
 ##### **Jayant Bharadwaj**
 
-* ###### *GitHub:*
+* ###### *GitHub:* jayantbharadwaj02-Analysis
 
 
 
