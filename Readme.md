@@ -102,8 +102,8 @@ Superstore Sales/
 ├── python/
 │   ├── Anaylsis_with_python.ipynb
 │   ├── sale_store_data.csv
-│   └── .ipynb_checkpoints/
-│       └── Untitled-checkpoint.ipynb
+│   └── .ipynb_checkpoints
+│       
 │
 └── sql/
     ├── Analysis with sql.sql
