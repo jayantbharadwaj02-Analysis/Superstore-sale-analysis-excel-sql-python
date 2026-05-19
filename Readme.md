@@ -132,7 +132,8 @@ Superstore Sales/
 
 ### **Dashboard Preview**
 
-![alt text](Dashboard_image.png)
+<img width="740" height="638" alt="Dashboard_image" src="https://github.com/user-attachments/assets/3809fdf1-dae8-4b2a-8759-e0ca41451daa" />
+
 
 
 
